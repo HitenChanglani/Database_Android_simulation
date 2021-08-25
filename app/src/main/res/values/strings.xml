@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">InClass09</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gpaTextView">GPA:</string>
+    <string name="gpaValueTextView" />
+    <string name="hoursTextView">Hours:</string>
+    <string name="hoursValueTextView" />
+    <string name="coursesTextView">Courses</string>
+    <string name="gradeValueTextView" />
+    <string name="courseNumberHint">Course Number</string>
+    <string name="courseNameHint">Course Name</string>
+    <string name="courseHoursHint">Credit Hours</string>
+    <string name="courseGradeTextView">Course Grade</string>
+    <string name="gradeA">A</string>
+    <string name="gradeB">B</string>
+    <string name="gradeC">C</string>
+    <string name="gradeD">D</string>
+    <string name="gradeF">F</string>
+    <string name="submitButton">Submit</string>
+    <string name="cancelTextView">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="mandatoryFields">All fields are mandatory!</string>
+    <string name="gradesTitle">Grades</string>
+    <string name="addCourseTitle">Add Course</string>
+    <string name="invalidHours">Number of hours cannot be zero or negative!</string>
+    <string name="addCourseButton">Add course</string>
+    <string name="extremeHours">Credit hours must be within 1 to 6</string>
+</resources>
